@@ -1,0 +1,21 @@
+export default {
+  appName: 'MumizzFood',
+  home: 'Home',
+  search: 'Search',
+  subscribe: 'Subscribe',
+  account: 'Account',
+  orders: 'Orders',
+  subscriptions: 'Subscriptions',
+  address: 'Manage Address',
+  payments: 'Payments',
+  help_support: 'Help and Support',
+  logout: 'Logout',
+  how_it_works: 'How it works',
+  contact_us: 'Contact Us',
+  rate_your_meal: 'Rate Your Meal',
+  faqs: 'FAQ',
+  terms: 'Terms and conditions',
+  privacy_policy: 'Privacy Policy',
+  profile: 'My Profile',
+  cancellation_policy: 'Cancellation Policy'
+};
